@@ -2,9 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
-import { withStore } from '../store';
-import logo from '../logo.svg';
-import API from '../api/api';
+import { withStore } from '../../store';
+import logo from '../../assets/images/logo.svg';
+import API from '../../api/api';
 
 // Define the main app
 class Header extends React.Component {

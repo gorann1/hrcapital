@@ -5,10 +5,10 @@ import PropTypes from 'prop-types';
 import PostsContainer from './components/posts/posts-container';
 import SignIn from './components/auth/sign-in';
 import SignUp from './components/auth/sign-up';
-import Header from './components/header';
+import Header from './components/Header/header';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+import './App.scss';
 import { createStore } from './store';
 import PrivateRoute from './private-route';
 import API from './api/api';

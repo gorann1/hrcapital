@@ -1,6 +1,6 @@
 {
   "name": "starter-postgres-express-react",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.2.6",
